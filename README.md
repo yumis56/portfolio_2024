@@ -1,2 +1,2 @@
 # Yumi Song
-## - [Projects] (projects.md)
+## - [Projects](projects.md)

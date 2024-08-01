@@ -1,4 +1,4 @@
 # portfolio_2024
 # Yumi Song
 ## - [Projects](projects.md)
-## - [Resume](https://yumis56.github.io/resume/)
+## - [Resume](https://yumis56.github.io/resume-2024/)
